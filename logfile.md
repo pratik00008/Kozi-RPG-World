@@ -1,6 +1,6 @@
 # Kozi's RPG World 🜂
 
-## Welcome, Adventurers ⚔️
+## Welcome, Adventurers
 A dark fantasy **online-only RPG experience** inspired by *Princess Phinix*.
 Build your legend through powerful skills, dangerous dungeons, and endless progression.
 
@@ -25,13 +25,13 @@ Build your legend through powerful skills, dangerous dungeons, and endless progr
 - Crafting systems inspired by ARPG orbs
 - Gear progression tied to end-game content
 
-## End-Game Content ☠️
+## End-Game Content
 - High-tier dungeon maps
 - Scaling difficulty & modifiers
 - Boss arenas & unique encounters
 - Seasonal balance updates & resets
 
-## Server Info ℹ️
+## Server Info
 - Minecraft Version: **1.20.1 Forge**
 - Game Mode: **RPG / ARPG**
 - Singleplayer: **Disabled**
@@ -43,7 +43,7 @@ Build your legend through powerful skills, dangerous dungeons, and endless progr
 - Progress is saved server-side
 - Respect other players and server rules
 
-## Latest Update ⚙️
+## Latest Update
 - UI & menu improvements
 - Performance optimizations
 - Balance changes to skills & enemies
