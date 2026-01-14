@@ -1,7 +1,7 @@
 # Kozi's RPG World 🜂
 
 ## Welcome, Adventurers
-A dark fantasy **online-only RPG experience** inspired by *Princess Phinix*.
+A dark fantasy online-only RPG experience inspired by **Princess Phinix**.
 Build your legend through powerful skills, dangerous dungeons, and endless progression.
 
 ## Core Features 🧩
